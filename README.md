@@ -2,17 +2,6 @@
 
 A simple text-based RPG built with HTML, CSS, and JavaScript.  Defeat the dragon to win!
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Gameplay](#gameplay)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 
 ## Demo
 
